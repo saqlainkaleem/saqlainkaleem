@@ -24,6 +24,8 @@
    <a href="https://www.instagram.com/saqlainkaleem/"> instagram </a><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p>
 <hr>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=saqlainkaleem&style=plastic&label=PROFILE+VIEWS" alt="motasimmakki" /> </p>
+ <hr>
 
 <h6 align='center'>
   / <> with 🧡 By <a href="http://saqlainkaleem.epizy.com">Mohd Kaleem Saqlaini</a> /
