@@ -24,7 +24,7 @@
    <a href="https://www.instagram.com/saqlainkaleem/"> instagram </a><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p>
 <hr>
-   <p align="center"> <img src="https://komarev.com/ghpvc/?username=saqlainkaleem&style=plastic&label=PROFILE+VIEWS" alt="motasimmakki" /> </p>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=saqlainkaleem&style=plastic&label=PROFILE+VIEWS" alt="Saqlain Kaleem" /> </p>
  <hr>
 
 <h6 align='center'>
