@@ -24,6 +24,11 @@
    <a href="https://www.instagram.com/saqlainkaleem/"> instagram </a><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p>
 <hr>
+   
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=saqlainkaleem)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saqlainkaleem&show_icons=true)
+ <hr>
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=saqlainkaleem&style=plastic&label=PROFILE+VIEWS" alt="Saqlain Kaleem" /> </p>
  <hr>
 
