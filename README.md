@@ -13,7 +13,14 @@
 
 - ⚡ Fun fact **Lists are better than large paragraphs**
 
-### Blogs posts
+- 🔭 I’m currently working on Personal Portfolio. 
+
+- 💬 Ask me about programming related things. 
+
+- 📫 How to reach me: mksaqlaini@outlook.com  
+
+
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
