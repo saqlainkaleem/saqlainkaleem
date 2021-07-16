@@ -21,7 +21,7 @@
 - 📫 How to reach me: mksaqlaini@outlook.com  
 
 
-- **My favourite linear: “If You Are A Techie, Your Home Page Should Be GitHub, Not Instagram.”**
+- **“If You Are A Techie, Your Home Page Should Be GitHub, Not Instagram.”**
 
 
 <!-- ### Blogs posts -->
