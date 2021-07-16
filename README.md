@@ -4,17 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlainkaleem&label=Profile%20views&color=0e75b6&style=flat" alt="saqlainkaleem" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saqlainkaleem" alt="saqlainkaleem" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/saqlainkaleem" target="blank"><img src="https://img.shields.io/twitter/follow/saqlainkaleem?logo=twitter&style=for-the-badge" alt="saqlainkaleem" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [saqlainkaleem.epizy.com](saqlainkaleem.epizy.com)
+- 👨‍💻 All of my projects are available [here](saqlainkaleem.epizy.com)
 
-- ⚡ Fun fact **Lists are better than large paragraphs**
+- ⚡ Fun fact - **Lists are better than large paragraphs**
 
-- 🔭 I’m currently working on Personal Portfolio. 
+- Find Me  
 
 - 💬 Ask me about programming related things. 
 
