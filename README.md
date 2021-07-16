@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohd Kaleem Saqlaini</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Mohd Kaleem Saqlaini</h1>
 <h3 align="center">A Developer from India.</h3>
 <h4 align="center" font="bold">“If You Are A Techie, Your Home Page Should Be GitHub, Not Instagram.”</h4>
 
