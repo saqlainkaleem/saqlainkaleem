@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/saqlainkaleem" target="blank"><img src="https://img.shields.io/twitter/follow/saqlainkaleem?logo=twitter&style=for-the-badge" alt="saqlainkaleem" /></a> </p>
 
+<h2>About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+
 - 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available [here](saqlainkaleem.epizy.com)
