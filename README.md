@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Kaleem Saqlaini</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlainkaleem&label=Profile%20views&color=0e75b6&style=flat" alt="saqlainkaleem" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saqlainkaleem" alt="saqlainkaleem" /></a> </p>
@@ -18,6 +19,9 @@
 - 💬 Ask me about programming related things. 
 
 - 📫 How to reach me: mksaqlaini@outlook.com  
+
+
+- **My favourite linear: “If You Are A Techie, Your Home Page Should Be GitHub, Not Instagram.”**
 
 
 <!-- ### Blogs posts -->
