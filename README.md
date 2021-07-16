@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlainkaleem&label=Profile%20views&color=0e75b6&style=flat" alt="saqlainkaleem" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/saqlainkaleem" target="blank"><img src="https://img.shields.io/twitter/follow/saqlainkaleem?logo=twitter&style=for-the-badge" alt="saqlainkaleem" /></a> </p>
 
@@ -46,3 +46,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saqlainkaleem&show_icons=true&locale=en" alt="saqlainkaleem" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqlainkaleem&" alt="saqlainkaleem" /></p>
+
+<hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlainkaleem&label=Profile%20views&color=0e75b6&style=flat" alt="saqlainkaleem" /> </p>
