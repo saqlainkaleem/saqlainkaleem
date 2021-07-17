@@ -87,7 +87,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqlainkaleem&" alt="saqlainkaleem" /></p>
 
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlainkaleem&label=Profile%20views&color=0e75b6&style=flat" alt="saqlainkaleem" /> </p>
 
 
 <h2>🎯 Find the Profile Interesting?</h2>
@@ -99,3 +98,7 @@
 - 👀 Ping me on  [Twitter](twitter.com/saqlainkaleem)
 
 - 💌 <a href="mailto: mksaqlaini@outlook.com">@mksaqlaini@outlook.com</a> 
+
+<hr>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=saqlainkaleem&label=Profile%20views&color=0e75b6&style=flat" alt="saqlainkaleem" /> </p>
+<h3 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> with 🧡 By Mohd Kaleem Saqlaini</h3> 
