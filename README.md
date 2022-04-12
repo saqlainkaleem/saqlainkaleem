@@ -15,7 +15,7 @@
 <h3> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h3>
 
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript** & doing **DSA**
 
 - 👨‍💻 All of my projects are available [here](saqlainkaleem.epizy.com)
 
