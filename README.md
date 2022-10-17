@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **JavaScript** & doing **DSA**.
 
-- 👨‍💻 All of my projects are available [here](https://saqlainkaleem.tech).
+- 👨‍💻 All of my projects are available [here](https://geekycoder.netlify.app/).
 
 - ⚡ Fun fact - **Lists are better than large paragraphs**.
 
