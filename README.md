@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px height=50px>, I'm Mohd Kaleem Saqlaini</h1>
-<h3 align="center">A Final Year CS Undergrad from India.</h3>
+<h3 align="center">A Final Year CSE Undergrad from India.</h3>
 <div align="center">
 	<br>
 	<a href="https://github.com/saqlainkaleem">
