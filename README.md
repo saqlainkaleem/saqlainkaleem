@@ -87,7 +87,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqlainkaleem&" alt="saqlainkaleem" /></p>
 
 <hr>
-
+<h3 align="center">Holopin Badge Board </h3>
+[![An image of @saqlainkaleem's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saqlainkaleem)](https://holopin.io/@saqlainkaleem)
+<hr>
 
 <h2>🎯 Find the Profile Interesting?</h2>
 
