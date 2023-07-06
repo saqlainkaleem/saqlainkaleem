@@ -88,7 +88,7 @@
 
 <hr>
 <h3 align="center">Holopin Badge Board </h3>
-[![An image of @saqlainkaleem's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saqlainkaleem)](https://holopin.io/@saqlainkaleem)
+<img src="https://www.holopin.me/@saqlainkaleem" >
 <hr>
 
 <h2>🎯 Find the Profile Interesting?</h2>
